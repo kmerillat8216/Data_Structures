@@ -14,7 +14,7 @@
 // the time it takes to print all the primes and with
 // larger numbers, the more memory is uses. 
 
-class Lab2 {
+class lab2 {
 
 	public static void main(String[] args) 
 	{
